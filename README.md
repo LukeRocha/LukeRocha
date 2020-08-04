@@ -2,7 +2,7 @@
 
 <!--
 **LukeZombie/LukeZombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 My name is Lucas Rocha, but you can call me Luke.
 Actually i'm learning how to code and things is getting cooler day after day!
 My objective is to get ready solving problems with code untill the end of 2020!
@@ -16,4 +16,4 @@ Gmail: lucas.ar93@gmail.com
 - 🌱 I’m currently learning JavaScript and React
 - 🤔 I’m looking for help with JavaScript Fluency
 - ⚡ Fun fact: I love to play guitar and bass, have some musics on the difital plataforms, so, if you
--->
+
