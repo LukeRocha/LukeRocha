@@ -5,7 +5,7 @@
 -->
 My name is Lucas Rocha, but you can call me Luke.
 Actually i'm learning how to code and things is getting cooler day after day!
-My objective is to get ready solving problems with code untill the end of 2020!<br/>
+My objective is to get a job untill the end of 2021!<br/>
 
 Here's my social media, where you can find me:<br/>
 LinkedIn: https://www.linkedin.com/in/lucas-rocha-6523b0168/<br/>
