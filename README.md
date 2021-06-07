@@ -15,5 +15,5 @@ Gmail: lucas.ar93@gmail.com<br/>
 - 🔭 I’m currently working on some private studying projects<br/>
 - 🌱 I’m currently learning JavaScript and React<br/>
 - 🤔 I’m looking for help with JavaScript Fluency<br/>
-- ⚡ Fun fact: I looooooove to play guitar and bass, I have some musics on the digital plataforms!
+- ⚡ Fun fact: I looooooove to play guitar and bass, I have songs on the digital plataforms!
 
