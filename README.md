@@ -12,8 +12,8 @@ LinkedIn: https://www.linkedin.com/in/lucas-rocha-6523b0168/<br/>
 Whatsapp: +55 (13) 99612-8986<br/>
 Gmail: lucas.ar93@gmail.com<br/>
 
-- 🔭 I’m currently working on some private studying projects<br/>
-- 🌱 I’m currently learning JavaScript and React<br/>
-- 🤔 I’m looking for help with JavaScript Fluency<br/>
+- 🔭 I’m currently working on some private studying projects and one team project using react<br/>
+- 🌱 I’m currently learning React<br/>
+- 🤔 I’m looking for nodeJs Fluency<br/>
 - ⚡ Fun fact: I looooooove to play guitar and bass, I have songs on the digital plataforms!
 
