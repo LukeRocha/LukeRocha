@@ -14,6 +14,6 @@ Gmail: lucas.ar93@gmail.com<br/>
 
 - 🔭 I’m currently working on some private studying projects and one team project using react<br/>
 - 🌱 I’m currently learning React<br/>
-- 🤔 I’m looking for nodeJs Fluency<br/>
+- 🤔 I’m looking for help with nodeJs Fluency<br/>
 - ⚡ Fun fact: I looooooove to play guitar and bass, I have songs on the digital plataforms!
 
