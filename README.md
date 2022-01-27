@@ -8,7 +8,7 @@ Actually i'm learning how to code and things is getting cooler day after day!
 My objective is to get a job untill the end of 2021!<br/>
 
 Here's my social media, where you can find me:<br/>
-LinkedIn: https://www.linkedin.com/in/lucas-rocha-6523b0168/<br/>
+LinkedIn: https://www.linkedin.com/in/devlucasrocha/<br/>
 Whatsapp: +55 (13) 99612-8986<br/>
 Gmail: lucas.ar93@gmail.com<br/>
 
