@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love to play Guitar!**
 
-- 📫 How to reach me:  <a href="mailto:lucas.ar93@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a> or <a href="https://api.whatsapp.com/send?phone=5513996128986" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
+- 📫 How to reach me:  <br> <a href="mailto:lucas.ar93@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a> <a href="https://api.whatsapp.com/send?phone=5513996128986" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
 
 
 
