@@ -9,9 +9,15 @@
 
 - 👯 I’m looking to collaborate on **new projects and new stuff**
 
-- 📫 How to reach me **lucas.ar93@gmail.com**
-
 - ⚡ Fun fact **I love to play Guitar!**
+
+- 📫 How to reach me:  <a href="mailto:lucas.ar93@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a> or <a href="https://api.whatsapp.com/send?phone=5513996128986" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
+
+
+
+  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
