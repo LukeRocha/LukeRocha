@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working at **Overall.cloud**
+- 🔭 I’m currently working at **Itaú Unibanco**
 
-- 🌱 I’m currently learning **Laravel, PHP and VueJs**
+- 🌱 I’m currently learning **Java, Aws, Typescript and Angular**
 
 - 👯 I’m looking to collaborate on **new projects and new stuff**
 
