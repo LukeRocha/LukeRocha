@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **How to become a better developer!**
+- 🌱 I’m currently learning **how to become a better developer!**
 
 - 👯 I’m looking to collaborate on **new projects and new stuff**
 
